@@ -6,3 +6,5 @@ issue 1 fixed
 SOS-0001
 
 XXXX
+
+this is a small fix
